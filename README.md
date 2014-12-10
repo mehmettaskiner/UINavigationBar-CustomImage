@@ -1,5 +1,4 @@
 UINavigationBar+CustomImage.h
-
 ===================================
 
 This category is an helper to add image for title to navigation bar. 
